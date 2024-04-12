@@ -1,6 +1,0 @@
-first line
-line master1
-conflict1
-conf
-
-
